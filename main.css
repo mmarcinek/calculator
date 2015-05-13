@@ -1,0 +1,12 @@
+.container {
+  font-family: Arial, sans-serif;
+  width: 283px;
+  height: 354px;
+}
+
+span {
+  background-color: #65B357;
+  height: 70px;
+  width: 70px;
+  border: 1px solid #85C279;
+}
